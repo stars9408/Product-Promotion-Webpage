@@ -17,13 +17,13 @@
 	Db_Odbc_Name_callreport     = "callreport"
 
 	Db_Odbc_User     = "wwwadmin"
-	Db_Odbc_Pass     = "krinfra_ascpw_www"
+	Db_Odbc_Pass     = "PW"
 
 	Db_Odbc_Call_User     = "asc"
-	Db_Odbc_Call_Pass     = "asckrinfra"
+	Db_Odbc_Call_Pass     = "PW"
 
-	sql_ip = "192.168.101.240"
-	SendServerIP = "192.168.101.240:23569"
+	sql_ip = "192.168.xxx.xxx"
+	SendServerIP = "192.168.xxx.xxx:23569"
 	joinip = Request("REMOTE_ADDR") 
 
 	mail_component   = "1"
